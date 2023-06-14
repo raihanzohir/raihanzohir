@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### A JavaEE Developer
+
+I am **Md. Zohir Raihan** working as **Software Architect @ ERA INFOTECH LTD.**. I am an Experienced **JavaEE Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Java, Spring Boot, JPA, Hibernate, RESTfull API’s, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, and Linux.**
+
+---
+
+- 🔭 I’m currently working as **Software Architect @ ERA INFOTECH LTD.**
+- 🌱 I’m currently learning **Quarkus**
+- 👯 I’m looking to collaborate on open-source/commercial projects
+
 <!--
 **raihanzohir/raihanzohir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
