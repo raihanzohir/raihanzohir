@@ -2,11 +2,11 @@
 
 #### A JavaEE Developer
 
-I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH LTD**. I am an Experienced **JavaEE Developer** with a demonstrated history of working in the information technology and financial services industry. **Skilled in Java, Spring Boot, JPA, Hibernate, RESTfull APIs, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, PL/SQL, and Linux.**
+I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH LTD**. Experienced in **JavaEE** with a demonstrated history of working in the information technology and financial services industry. **Skilled in Java, Spring Boot, JPA, Hibernate, RESTfull APIs, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, PL/SQL, and Linux.**
 
 ---
 
-- 🔭 I’m currently working as **Software Architect @ ERA INFOTECH LTD.**
+- 🔭 I’m currently working as **Senior Software Architect @ ERA INFOTECH LTD.**
 - 🌱 I’m currently learning **Quarkus**
 - 👯 I’m looking to collaborate on open-source/commercial projects
 
