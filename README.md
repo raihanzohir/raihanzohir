@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-#### A JavaEE Developer
-
 I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH LTD**. Experienced in **JavaEE** with a demonstrated history of working in the information technology and financial services industry. **Student of Java, Spring Boot, JPA, Hibernate, RESTfull APIs, JasperReports, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, SQL, PL/SQL, and Linux.**
+
+---
+
+### Delivered Projects
+- Loan Originating & Approval System
+- Internet Banking
+- API Gateway (External & Internal)
+- MFS (bKash) App Integration with Core Banking Solution
+- SWIFT Pre-Validation Data Provider
 
 ---
 
