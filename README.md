@@ -7,7 +7,7 @@ I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH 
 ---
 
 - 🔭 I’m currently working as **Senior Software Architect @ ERA INFOTECH LTD.**
-- 🌱 I’m currently learning **Quarkus**
+- 🌱 I’m currently learning in-details of **Microservices Design Patterns**
 - 👯 I’m looking to collaborate on open-source/commercial projects
 
 <!--
