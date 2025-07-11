@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH LTD**. Experienced in **JavaEE** with a demonstrated history of working in the information technology and financial services industry. **Student of Java, Spring Boot, JPA, Hibernate, RESTfull APIs, JasperReports, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, SQL, PL/SQL, and Linux.**
+I am **Md. Zohir Raihan** working as **Senior Software Engineer @ Adventure Dhaka Limited**. Experienced in **JavaEE** with a demonstrated history of working in the information technology and financial services industry. **Java, Spring Boot, JPA, Hibernate, RESTfull APIs, JasperReports, Cryptography, Maven, Git, Jenkins, MySQL, Oracle, SQL, PL/SQL, and Linux.**
 
 ---
 
@@ -13,7 +13,7 @@ I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH 
 
 ---
 
-- I’m currently working as **Senior Software Architect @ ERA INFOTECH LTD.**
+- I’m currently working as **Senior Software Engineer @ Adventure Dhaka Limited**
 - I’m currently learning in-details of **Microservices Design Patterns**
 - I’m looking to collaborate on open-source/commercial projects
 
@@ -22,7 +22,7 @@ I am **Md. Zohir Raihan** working as **Senior Software Architect @ ERA INFOTECH 
 
 Here are some ideas to get you started:
 
-- I’m currently working at **ERA INFOTECH LTD** 
+- I’m currently working at **Adventure Dhaka Limited** 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
