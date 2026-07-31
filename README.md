@@ -13,7 +13,7 @@ I am **Md. Zohir Raihan** working as **Senior Software Engineer @ Adventure Dhak
 
 ---
 
-- I’m currently working as **Senior Software Engineer @ Adventure Dhaka Limited**
+- I’m currently working as **Senior Java Developer**
 - I’m currently learning in-details of **Microservices Design Patterns**
 - I’m looking to collaborate on open-source/commercial projects
 
